@@ -22,6 +22,6 @@ pickBtn.addEventListener('click', function () {
         })
 
         .catch(err => {
-            console.log("user caancled the slection");
+            console.log("user caancled the slection")a;
         })
 })
